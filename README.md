@@ -16,7 +16,7 @@ This project provides the necessary code (SOAP objects, middleware, etc.) to req
 notifications from the ePoetry service.
 
 ## Versions
-- 5.x should be used with PHP > 8.3 and Symfony 7.x
+- 5.x should be used with PHP > 8.3 and Symfony 7.x or 8.x
 - 4.x should be used with PHP > 8.3 and Symfony 7.x
 - 3.x should be used with PHP > 8.3 and Symfony 6.x
 - 2.x should be used with PHP > 8.1.26 and Symfony 5.x, or 6.x
@@ -24,7 +24,7 @@ notifications from the ePoetry service.
 
 ## Upgrading to 5.x
 
-Version 5.x upgrades the underlying SOAP client (`phpro/soap-client`) to version 4.
+Version 5.x upgrades the underlying SOAP client (`phpro/soap-client`) to version 5 or 6.
 
 ## Project overview
 
